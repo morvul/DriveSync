@@ -1,0 +1,4 @@
+D:\555\Мои проекты\DriveSync\MsgBoxCheck\bin\Release\MsgBoxCheck.dll
+D:\555\Мои проекты\DriveSync\MsgBoxCheck\bin\Release\CbtHook.dll
+D:\555\Мои проекты\DriveSync\MsgBoxCheck\bin\Release\WindowsHook.dll
+D:\555\Мои проекты\DriveSync\MsgBoxCheck\obj\Release\MsgBoxCheck.dll

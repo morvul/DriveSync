@@ -1,0 +1,15 @@
+D:\555\Мои проекты\DriveSync\DriveSync\bin\Release\DriveSync.exe.config
+D:\555\Мои проекты\DriveSync\DriveSync\bin\Release\DriveSync.exe
+D:\555\Мои проекты\DriveSync\DriveSync\bin\Release\DriveSync.pdb
+D:\555\Мои проекты\DriveSync\DriveSync\bin\Release\MsgBoxCheck.dll
+D:\555\Мои проекты\DriveSync\DriveSync\bin\Release\CbtHook.dll
+D:\555\Мои проекты\DriveSync\DriveSync\bin\Release\WindowsHook.dll
+D:\555\Мои проекты\DriveSync\DriveSync\obj\Release\DriveSync.csprojResolveAssemblyReference.cache
+D:\555\Мои проекты\DriveSync\DriveSync\obj\Release\DriveSync.DetectorForm.resources
+D:\555\Мои проекты\DriveSync\DriveSync\obj\Release\DriveSync.MainForm.resources
+D:\555\Мои проекты\DriveSync\DriveSync\obj\Release\DriveSync.Properties.Resources.resources
+D:\555\Мои проекты\DriveSync\DriveSync\obj\Release\DriveSync.SettingsForm.resources
+D:\555\Мои проекты\DriveSync\DriveSync\obj\Release\DriveSync.csproj.GenerateResource.Cache
+D:\555\Мои проекты\DriveSync\DriveSync\obj\Release\DriveSync.exe
+D:\555\Мои проекты\DriveSync\DriveSync\obj\Release\DriveSync.pdb
+D:\555\Мои проекты\DriveSync\DriveSync\obj\Release\DriveSync.Forms.SynchronizationForm.resources

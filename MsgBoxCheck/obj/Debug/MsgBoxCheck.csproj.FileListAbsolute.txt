@@ -1,0 +1,9 @@
+C:\Users\Мордвинов\Desktop\MsgBoxCheck\bin\Debug\MsgBoxCheck.dll
+C:\Users\Мордвинов\Desktop\MsgBoxCheck\bin\Debug\MsgBoxCheck.pdb
+C:\Users\Мордвинов\Desktop\MsgBoxCheck\obj\Debug\MsgBoxCheck.csprojResolveAssemblyReference.cache
+C:\Users\Мордвинов\Desktop\MsgBoxCheck\obj\Debug\MsgBoxCheck.dll
+C:\Users\Мордвинов\Desktop\MsgBoxCheck\obj\Debug\MsgBoxCheck.pdb
+D:\555\Мои проекты\DriveSync\MsgBoxCheck\bin\Debug\MsgBoxCheck.dll
+D:\555\Мои проекты\DriveSync\MsgBoxCheck\bin\Debug\MsgBoxCheck.pdb
+D:\555\Мои проекты\DriveSync\MsgBoxCheck\obj\Debug\MsgBoxCheck.dll
+D:\555\Мои проекты\DriveSync\MsgBoxCheck\obj\Debug\MsgBoxCheck.pdb
